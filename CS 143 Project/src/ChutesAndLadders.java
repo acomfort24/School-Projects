@@ -1,4 +1,3 @@
-//Morse Coders' group project: Chutes and Ladders
 import java.util.Queue;
 import java.util.HashMap;
 import java.util.Map;

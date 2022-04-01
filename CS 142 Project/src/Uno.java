@@ -24,7 +24,7 @@ public class Uno
 
 
 		boolean startCheck = false;
-		System.out.println("Welcome to the game of UNO, the first player to play all of their cards wins.\n");
+		System.out.println("Welcome to the game of UNO, the first player to play all of their cards wins!\n");
 
 		while(startCheck == false)
 		{
